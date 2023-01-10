@@ -14,6 +14,7 @@ You can use Azure container registries with your existing container development 
 
 - You will find two sample Dockerfiles which will be used to build the container images for your application in the `/Challenge-02` folder of the `Resources.zip` files provided by your coach.
 - You will find the source code for `content-web` and `content-api` in the `/Challenge-01/` folder of the `Resources.zip` file provided by your coach. Review how the provided Dockerfiles correspond to each of these applications.
+- build the docker imane and run the api locally 
 - Deploy an Azure Container Registry (ACR)
 - Ensure your ACR has proper permissions and credentials configured
 - Use the cloud-based container image building feature of ACR Tasks to build and store images for `content-web` and `content-api`
