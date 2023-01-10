@@ -24,3 +24,12 @@ You can use Azure container registries with your existing container development 
 1. Verify that you have provisioned a new Azure Container Registry
 1. Verify that you have built and deployed your container images to the registry.
 1. Verify that you can log into the registry and see all images.
+
+
+## Learning Resources
+
+- [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+- [How to Dockerize a Node.js application](https://buddy.works/guides/how-dockerize-node-application)
+- [Why and How To Containerize Modern Node.js Applications](https://www.cuelogic.com/blog/why-and-how-to-containerize-modern-nodejs-applications)
+- [Push your first image to your Azure container registry using the Docker CLI](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli?tabs=azure-cli)
+- [Import container images to a container registry](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-import-images?tabs=azure-cli)
