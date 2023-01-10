@@ -10,7 +10,7 @@ In this set of challenges, you will be using an application called _FabMedical_,
 ### [Containers Path B](Challenge-02B.md)
 
 
-##Other Paths
+### Other Paths
 ### [Containers Path A](Challenge-01A.md)
 ### [Containers Path C](Challenge-02C.md)
 ### [Containers Path D](Challenge-03.md)
